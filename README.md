@@ -258,36 +258,46 @@ __- colors.xml__
 ![Screenshot (458)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/c9bc959e-808c-4aff-9ec0-8bf5f6b602e6)
 
 
+### 6. Ini adalah tampilan awal setelah di run.
+
+![WhatsApp Image 2023-11-01 at 06 12 15](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/7f9a2783-c1ac-4f29-b961-203a1d6ea429)
+
+
 ### 6. Ketika tombol "Toast" ditekan, maka akan muncul message "Bilangan Fibonacci"
 
 ![WhatsApp Image 2023-11-01 at 06 12 15 (1)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/2edf98e6-64a4-422b-84d2-a3900c87effc)
 
 
-### 7. Dan jika tombol "Count" ditekan, maka angka "1" akan berubah menjadi bilangan Fibonacci
+### 7. Dan jika tombol "Count" ditekan, maka angka "1" akan berubah menjadi bilangan Fibonacci, dan bilangan maksimum yang saya masukkan adalah "10"
 
-![WhatsApp Image 2023-10-30 at 16 32 29](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/f7eeac00-dd11-4f5c-9ab9-f8dc893f1fc0)
+![WhatsApp Image 2023-11-01 at 06 12 16](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/42ade83d-9015-4213-99f1-18c691b712ec)
 
-![WhatsApp Image 2023-10-30 at 16 32 28 (1)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/409db16e-5cde-40c8-8228-5ee305227784)
+![WhatsApp Image 2023-11-01 at 06 12 15 (2)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/18718a2d-6fad-4ba4-a22a-686cb5f996b6)
 
-![WhatsApp Image 2023-10-30 at 16 32 28 (3)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/76cec905-39af-45af-bfc4-c42aa572fc7a)
+![WhatsApp Image 2023-11-01 at 06 12 16 (2)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/86145130-fa70-4e18-9e9c-a78a75fa84ba)
 
-![WhatsApp Image 2023-10-30 at 16 32 28 (2)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/a667a83b-bdf0-45d4-814a-4409f6817afb)
+![WhatsApp Image 2023-11-01 at 06 12 16 (1)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/aac5c2a6-fb98-4e6c-867a-59d8aab00d4d)
 
-![WhatsApp Image 2023-10-30 at 16 32 27](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/dcd88c5c-6cff-4868-abe4-0084572e4612)
+![WhatsApp Image 2023-11-01 at 06 12 15 (3)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/8ed4305c-222e-453d-b317-07047fa66d83)
 
-![WhatsApp Image 2023-10-30 at 16 32 28 (4)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/bc83537e-cb57-4f02-bdee-6bcad7831f02)
+![WhatsApp Image 2023-11-01 at 06 12 18](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/b8163cb7-77ca-442a-bd8a-c682a1961e0b)
 
-![WhatsApp Image 2023-10-30 at 16 32 28](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/423bfbb3-148d-4dcd-a79a-be90970581dd)
+![WhatsApp Image 2023-11-01 at 06 12 17 (2)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/0393c8af-4f87-4389-b29a-45a19ba1aaf1)
 
-![WhatsApp Image 2023-10-30 at 16 32 29 (2)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/cecf92e0-5ed1-4e1e-94c5-94b60488965f)
+![WhatsApp Image 2023-11-01 at 06 12 17 (1)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/b0eae8a0-0fb7-4c91-b341-c2da8242fe7d)
 
-![WhatsApp Image 2023-10-30 at 16 32 29 (3)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/b5512d5e-efb7-4a32-9669-f84fbb0fe5d6)
+![WhatsApp Image 2023-11-01 at 06 12 17](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/71ce32e5-9a41-4c7a-9a52-d1cb463277a5)
 
-![WhatsApp Image 2023-10-30 at 16 32 30 (1)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/cf3345cc-ab32-4f1b-99f5-98c55ce583e6)
+![WhatsApp Image 2023-11-01 at 06 12 18 (2)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/1bae52e3-f9f4-4a4d-b1e9-6bd2216eb277)
 
-![WhatsApp Image 2023-10-30 at 16 32 29 (1)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/2ba9d94a-f5dc-42ff-a7bf-26558ed508bb)
+### Jika kita tekan lagi akan muncul message "Maksimum Fibonacci Tercapai"
 
-![WhatsApp Image 2023-10-30 at 16 32 30](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/9135e2bd-67f8-422a-8e19-28234fedab3c)
+![WhatsApp Image 2023-11-01 at 06 12 18 (1)](https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/a95006d9-9b4c-4d11-8dbc-131bf9d68fd8)
+
+--------------------------------------
+
+
+https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/bf0bb5fc-65ed-4293-9918-de066724ce4d
 
 
 ### Sekian, Terima Kasih.
