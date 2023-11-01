@@ -296,8 +296,7 @@ __- colors.xml__
 
 --------------------------------------
 
-
-https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/bf0bb5fc-65ed-4293-9918-de066724ce4d
+https://github.com/adeliadhea06/ProjectFibonacci/assets/115794875/651b01ce-8dc2-4a52-9a17-e9bcff5a9329
 
 
 ### Sekian, Terima Kasih.
